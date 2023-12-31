@@ -10,12 +10,16 @@
 
 ###
 
-<p align="left">Computer Science graduade with much pashion to front-end development. I am doing presonal challange to get as much daily streak of commit as I can. My current goal is to get 365 days ;) If you want to know me better i highly recommend you to visit my linkedin profile!</p>
+<p align="left">I am a Computer Science graduate with a strong passion for front-end development. Currently, I am undertaking a personal challenge to maintain a daily streak of commits, aiming to reach 365 consecutive days.<br><br>Presently, I am working on an e-commerce shop application called "WiredWave," which I plan to deploy soon. Additionally, I am developing "SpeedyTypeQuest," a fast-typing app that allows users to test their typing speed.<br><br>To learn more about me and my professional journey, I highly recommend visiting my LinkedIn profile.</p>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pbornikowski/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -97,7 +101,7 @@
 
 ###
 
-<p align="center">I love listening music, especially while programmig, down there you can check what I am listening right now.</p>
+<h3 align="center">I have a great love for music, especially while programming. You can see my current playlist by checking out my Spotify below.</h3>
 
 ###
 
