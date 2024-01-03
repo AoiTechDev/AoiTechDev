@@ -101,15 +101,7 @@
 
 ###
 
-<h3 align="center">I have a great love for music, especially while programming. You can see my current playlist by checking out my Spotify below.</h3>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/11146104599">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11146104599&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
