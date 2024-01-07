@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">I also know:</h2>
+<h2 align="left">I know / worked with:</h2>
 
 ###
 
