@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am a Computer Science graduate with a strong passion for front-end development. Currently, I am undertaking a personal challenge to maintain a daily streak of commits, aiming to reach 365 consecutive days.<br><br>Presently, I am working on an e-commerce shop application called "WiredWave," which I plan to deploy soon. Additionally, I am developing "SpeedyTypeQuest," a fast-typing app that allows users to test their typing speed.<br><br>To learn more about me and my professional journey, I highly recommend visiting my LinkedIn profile.</p>
+<p align="left">I am a Computer Science graduate with a strong passion for front-end development. Currently, I am undertaking a personal challenge to maintain a daily streak of commits, aiming to reach 365 consecutive days.<br><br>Presently, I am preparing design and architecture for my next project which will be "Macro Tracker" to track daily macro and meals.<br><br>To learn more about me and my professional journey, I highly recommend visiting my LinkedIn profile.</p>
 
 ###
 
