@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">After graduating in Computer Science, I faced the pivotal decision of choosing my career path. For me, the choice was clear: I was drawn to front-end development, finding it inherently captivating. I embarked on a personal challenge to code and study diligently every day, without making any excuses. This commitment not only aids me in constant improvement but also cultivates discipline, all while bringing me immense joy. I am unwaveringly dedicated and determined to attain expertise in this field, and I am confident that I will succeed.</p>
+<p align="left">After graduating with a degree in Computer Science, I had to decide on my career path. Front-end development was always something I found interesting. I challenged myself to code and learn every day, committed to continuous improvement. This dedication builds discipline and brings me great joy. I am fully committed to becoming an expert in this field and I am confident that I will succeed.</p>
 
 
 <h2 align="left">🚀Currently Projects I am working on:</h2>
