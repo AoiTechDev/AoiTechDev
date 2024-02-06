@@ -1,23 +1,16 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">Yo, I'm Paweł</h1>
 
 ###
 
-<p align="left">I am a Computer Science graduate with a strong passion for front-end development. Currently, I am undertaking a personal challenge to maintain a daily streak of commits, aiming to reach 365 consecutive days.<br><br>Presently, I am preparing design and architecture for my next project which will be "Macro Tracker" to track daily macro and meals.<br><br>To learn more about me and my professional journey, I highly recommend visiting my LinkedIn profile.</p>
+<p align="left">After graduating in Computer Science, I faced the pivotal decision of choosing my career path. For me, the choice was clear: I was drawn to front-end development, finding it inherently captivating. I embarked on a personal challenge to code and study diligently every day, without making any excuses. This commitment not only aids me in constant improvement but also cultivates discipline, all while bringing me immense joy. I am unwaveringly dedicated and determined to attain expertise in this field, and I am confident that I will succeed.</p>
+
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pbornikowski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -70,26 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-</div>
-
-###
-
-<h2 align="left">I am currently expanding my knowledge and have plans to develop my skills further as a full-stack developer.</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="40" alt="socketio logo"  />
 </div>
 
 ###
