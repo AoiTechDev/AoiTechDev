@@ -8,19 +8,15 @@
 <p align="left">After graduating in Computer Science, I faced the pivotal decision of choosing my career path. For me, the choice was clear: I was drawn to front-end development, finding it inherently captivating. I embarked on a personal challenge to code and study diligently every day, without making any excuses. This commitment not only aids me in constant improvement but also cultivates discipline, all while bringing me immense joy. I am unwaveringly dedicated and determined to attain expertise in this field, and I am confident that I will succeed.</p>
 
 
-###
+<h2 align="left">🚀Currently Projects I am working on:</h2>
 
-<br clear="both">
+- 🎧 WiredWave - Ecommerce store with Headphones.
 
-###
+- 🍱 MacroTracker - App that simplifies the tracking of daily macros and meals. 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AoiTechDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- 🛠️ Chrome Extension - Custom Chrome extension tailored to enhance my workflow. 
 
 ###
-
 <h2 align="left">My main tech stack:</h2>
 
 ###
@@ -62,8 +58,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+
+
+
 </div>
+
+
+<br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AoiTechDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ###
 
