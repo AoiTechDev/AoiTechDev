@@ -12,7 +12,7 @@
 
 - 🎧 WiredWave - Ecommerce store with Headphones.
 
-- 🍱 MacroTracker - App that simplifies the tracking of daily macros and meals. 
+- 🍱 Mealfulness - App that simplifies the tracking of daily macros and meals. 
 
 - 🛠️ Chrome Extension - Custom Chrome extension tailored to enhance my workflow. 
 
