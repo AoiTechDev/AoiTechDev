@@ -18,13 +18,12 @@
 ###
 
 
-**Frondend** : `React` `Next.js` `Javascript` `Typescript` `TailwindCSS` `Sass/Scss` `Shadcn` `Zustand`
+**Frondend** : `React` `Next.js` `Javascript` `Typescript` `TailwindCSS` `Sass/Scss` `Shadcn` `Zustand` `Zod`
 
 **Backend**: `Next.js` `Node.js` `Express.js` `PosgreSQL`
 
 **Testing**: `Jest` `React Testing Library` `Postman`
 
-**Others**: `RWD` `SEO` `SOLID` `REST API` `React Query` `Sanity` `Python` `CSS Modules` `Zod`
 
 ###
 
