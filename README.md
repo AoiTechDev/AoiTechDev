@@ -5,8 +5,9 @@
 
 ###
 
-<p align="left">After graduating with a degree in Computer Science, I had to decide on my career path. Front-end development has consistently held my interest, emerging as my area of greatest familiarity subsequent to my formal education and technical training. I challenged myself to code and learn every day, committed to continuous improvement. This dedication builds discipline and brings me great joy. I am fully committed to becoming an expert in this field and I am confident that I will succeed.</p>
+<p align="left">I challenged myself to code and learn every day, committed to continuous improvement. This dedication builds discipline and brings me great joy. I am fully committed to becoming an expert in this field and I am confident that I will succeed.</p>
 
+<p align="left">Recently, my team and I were placed first in the Hackathon organized by Nerdbord. 😎</p>
 
 <h2 align="left">🚀Currently Projects I am working on:</h2>
 
