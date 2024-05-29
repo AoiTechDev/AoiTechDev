@@ -15,6 +15,7 @@
 
 ###
 
+<h2 align="left">My Stack:</h2>
 
 **Frondend** : `React` `Next.js` `Javascript` `Typescript` `TailwindCSS` `Sass/Scss` `Shadcn` `Zustand` `Zod`
 
