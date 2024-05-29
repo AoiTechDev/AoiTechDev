@@ -5,16 +5,13 @@
 
 ###
 
-<p align="left">I challenged myself to code and learn every day, committed to continuous improvement. This dedication builds discipline and brings me great joy. I am fully committed to becoming an expert in this field and I am confident that I will succeed.</p>
+<p align="left">I am a Front-end developer with 2 years of experience. </p>
 
-<p align="left">Recently, my team and I were placed first in the Hackathon organized by Nerdbord. 😎</p>
+<p align="left">I were placed first in the first Hackathon I took part it at Nerdbord. 😎</p>
 
 <h2 align="left">🚀Currently Projects I am working on:</h2>
 
-- 🍱 **Mealfulness** - An application designed to streamline the tracking of daily macros and meals. This is my primary focus app now where I put the most effort in it.
-
-- 🎧 **WiredWave** - Ecommerce store with Headphones.
-
+- 🍱 **My-Amigo** - App which allow to combine favorite frameworks with fun accessories to craft a unique, funny avatar.
 
 ###
 
