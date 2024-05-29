@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I am a Front-end developer with 2 years of experience. </p>
+<p align="left">I am a Front-end developer with 2 years of experience. I challanged to code and commit every single day. My goal is to get 1000 days!!</p>
 
 <p align="left">I were placed first in the first Hackathon I took part it at Nerdbord. 😎</p>
 
