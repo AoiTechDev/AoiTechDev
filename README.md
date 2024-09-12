@@ -5,17 +5,8 @@
 
 ###
 
-<p align="left">I am a Front-end developer with 2 years of experience.</p> 
+<p align="left">I am a Front-end developer at Setmixer</p> 
 
-<p align="left">I challanged to code and commit every single day. My goal is to get 1000 days!!</p>
-
-<p align="left">I were placed first in the first Hackathon I took part it at Nerdbord. 😎</p>
-
-<h2 align="left">🚀Currently Projects I am working on:</h2>
-
-- 🍱 **My-Amigo** - App which allow to combine favorite frameworks with fun accessories to craft a unique, funny avatar.
-
-###
 
 <h2 align="left">My Stack:</h2>
 
