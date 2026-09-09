@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I am a Front-end developer at Setmixer</p> 
+<p align="left">I am a Front-end developer</p> 
 
 
 <h2 align="left">My Stack:</h2>
