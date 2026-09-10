@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td width="60%" valign="middle">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="60%" valign="middle" style="border: none;">
 
 # Yo, I'm Paweł 👋
 ### Front-end Developer
@@ -8,7 +8,7 @@
 Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems to real-time hardware integrations. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" style="border: none;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl2NjN6aTV3N2t1ZGR4Y213c2dma2trbHh6bDEzeXByaHViYmJ2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2BV6eu8xiYQsPvRQFG/giphy.gif" width="100%"/>
 </td>
 </tr>
@@ -52,7 +52,3 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
 </p>
 
 <br>
-
-<p align="center">
-  <sub>Thanks for stopping by! ⭐️ this repo if you find it useful.</sub>
-</p>
