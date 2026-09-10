@@ -44,10 +44,19 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" width="450" height="195" alt="streak graph" style="object-fit: cover;" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="450" height="195" style="object-fit: cover;" />
-</p>
+<table border="0" cellspacing="0" cellpadding="10" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td align="center" style="border: none;">
+  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" width="400" height="180" alt="streak graph" style="object-fit: cover;" />
+</td>
+<td align="center" style="border: none;">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="400" height="180" style="object-fit: cover;" />
+</td>
+</tr>
+</table>
 
 <br>
 
+<p align="center">
+  <sub>Thanks for stopping by! ⭐️ this repo if you find it useful.</sub>
+</p>
