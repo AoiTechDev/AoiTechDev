@@ -39,8 +39,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoiTechDev&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AoiTechDev&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="48%" />
 </p>
 ###
 
