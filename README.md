@@ -5,7 +5,7 @@
 # Yo, I'm Paweł 👋
 ### Front-end Developer
 
-Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems to real-time hardware integrations. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
+Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
 
 </td>
 <td width="40%" align="center" style="border: none;">
@@ -18,9 +18,7 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
 
 ## 🛠️ My Stack
 
-**Frontend:** `React` `Next.js` `JavaScript` `TypeScript` `TailwindCSS` `Sass/Scss` `Shadcn` `Zustand` `Zod`
-
-**Backend:** `Next.js` `Node.js` `Express.js` `PostgreSQL`
+**Frontend:** `React` `Next.js` `JavaScript` `TypeScript` `TailwindCSS` `Sass/Scss` `Shadcn` `Zustand`
 
 **Testing:** `Jest` `React Testing Library` `Postman`
 
@@ -46,16 +44,10 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
   </picture>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="8" style="border: none; border-collapse: collapse; width: 100%;">
-<tr style="border: none;">
-<td width="50%" align="center" valign="top" style="border: none;">
-  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
-</td>
-<td width="50%" align="center" valign="top" style="border: none;">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="100%" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" width="450" height="195" alt="streak graph" style="object-fit: cover;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="450" height="195" style="object-fit: cover;" />
+</p>
 
 <br>
 
