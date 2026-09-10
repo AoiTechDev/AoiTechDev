@@ -5,7 +5,7 @@
 # Yo, I'm Paweł 👋
 ### Front-end Developer
 
-Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
+Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems to real-time hardware integrations. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
 
 </td>
 <td width="40%" align="center" style="border: none;">
@@ -46,9 +46,16 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" height="180" />
-</p>
+<table border="0" cellspacing="0" cellpadding="8" style="border: none; border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
+<td width="50%" align="center" valign="top" style="border: none;">
+  <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+</td>
+<td width="50%" align="center" valign="top" style="border: none;">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="100%" />
+</td>
+</tr>
+</table>
 
 <br>
+
