@@ -19,7 +19,24 @@
 **Testing**: `Jest` `React Testing Library` `Postman`
 
 
+
 ###
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AoiTechDev/AoiTechDev/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AoiTechDev/AoiTechDev/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/AoiTechDev/AoiTechDev/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
