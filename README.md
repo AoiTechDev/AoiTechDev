@@ -5,7 +5,7 @@
 # Yo, I'm Paweł 👋
 ### Front-end Developer
 
-Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems to real-time hardware integrations. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
+Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
 
 </td>
 <td width="40%" align="center" style="border: none;">
