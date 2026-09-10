@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=AoiTechDev&show_icons=true&theme=dark" width="48%" />
+ <img src="https://streak-stats.demolab.com?user=AoiTechDev&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AoiTechDev&layout=compact&theme=dark" width="48%" />
 </p>
 ###
