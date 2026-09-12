@@ -1,15 +1,10 @@
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="60%" valign="middle" style="border: none;">
+
 
 # Yo, I'm Paweł 👋
 ### Front-end Developer
 
 Front-end developer with 2+ years shipping production React & Next.js apps — from UI architecture and design systems. I like turning complex problems into simple, reliable interfaces, and I'm always picking up new tools to do it better.
 
-
-</tr>
-</table>
 
 <br>
 
