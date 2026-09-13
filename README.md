@@ -49,6 +49,3 @@ Front-end developer with 2+ years shipping production React & Next.js apps — f
 
 <br>
 
-<p align="center">
-  <sub>Thanks for stopping by! ⭐️ this repo if you find it useful.</sub>
-</p>
