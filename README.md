@@ -3,5 +3,5 @@
 # Yo, I'm Paweł 👋
 ### Front-end Developer
 
-I just like creating things
+Currently working on https://www.capruo.com/
 
